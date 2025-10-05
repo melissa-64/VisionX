@@ -1,0 +1,188 @@
+{
+    "loaders": [
+        {
+            "id": "crusader-r6",
+            "name": "Crusader R6",
+            "categoryId": "r6",
+            "contentType": "web_downloadable",
+            "downloadUrl": "https://iriscorp.store/",
+            "version": "1.4",
+            "instructions": "## SIMPLE INSTRUCTIONS:\r\nPlease follow our Simple Instructions to get started with our products. If you are familiar with other products, these should already be what you are used to/have set up. These are REQUIRED for our products!\r\n\r\n1.  Use UEFI Boot instead of Legacy (if not already).\r\n    \r\n2.  Use Default Discord Client! Altcords will NOT work!\r\n    \r\n3.  In Discord Overlay, Enable \u201cEnable Legacy Game Overlay\u201d.\r\n    \r\n4.  In Discord Overlay, Enable Overlay for Tom Clancy's R6S.\r\n    \r\n5.  Be sure it doesn't state \u201cinitializing\u201d when you enter the game!\r\n        \r\n7.  In Discord Overlay, Disable \u201cEnable Game Overlay\u201d.\r\n    \r\n\r\n**DEFAULT DISCORD CLIENT IS REQUIRED. IT WILL NOT WORK WITH ALTCORDS.**\r\n\r\n## GETTING STARTED\r\n\r\n1.  Go to [https://google.com](https://google.com) & enter your License Key to download your Unique Loader.\r\n    -   Disable Adblockers if you have any issues downloading/use a VPN.\r\n2.  Once downloaded, be sure the Game & Anticheat are fully closed. Run our Loader after.\r\n    -   Your computer will restart automatically in order to install our Bypass.\r\n3.  Once your computer has restarted, go to [https://google.com](https://google.com) once more and download another unique Loader. Run it and start your Game when it asks.\r\n4.  You are good to go now. You can now start enjoying our Product!\r\n## WEBMENU\r\n\r\n1.  Once Injected, access your Menu by going to [https://myloader.cc](https://myloader.cc) & clicking \"Menu\u201d.\r\n2.  All changes are visible live in-game. Enjoy full customization of all options/features!\r\n3.  Any issues with FPS, be sure to lower the FPS in the \u201cPerformance\u201d tab.\r\n4.  The higher the FPS set, the more CPU the product requires to operate.\r\n\r\n## PROBLEMS & FAQ GUIDE\r\n\r\n### Having Issues with our Product?\r\n\r\n-   All issues will be stated at the top of your webmenu. Follow them to fix 99% of issues!\r\n    \r\n\r\n### Something running causing the product to not start:\r\n\r\n-   Don't run the loader while the game is active. Game must be off.\r\n    \r\n-   Don't run the loader while other games are running with EAC, BE, etc.\r\n    \r\n-   Don't run the loader while AntiViruses/AntiCheats are running (list below).\r\n    \r\n\r\n### Double check to be sure your device is setup properly:\r\n\r\n-   Secure Boot disabled and UEFI boot enabled.\r\n    \r\n-   Confirm Discord Overlay settings.\r\n    \r\n\r\n### Can't see ESP, but everything else works?\r\n\r\n-   Press their Discord Hotkey and see if it appears. If it doesn't, check discord.\r\n    \r\n-   Must be using OFFICIAL Discord Client! ALTCORDS WON'T WORK.\r\n    \r\n-   Check Discord Overlay settings for \"initializing\" on R6S Overlay.\r\n    \r\n-   Join a Call, talk once, then check if it appears.\r\n    \r\n----------\r\n\r\n## FAQ & SOLUTIONS:\r\n\r\n### Issues & Their Solutions:\r\n\r\n#### ESP not showing/nothing working:\r\n\r\n-   Check Discord Overlay settings. Legacy must be enabled, Regular Discord Overlay to be disabled, and Overlay for R6S enabled.\r\n    \r\n-   If Status on Overlay (in Discord settings) states \"initializing\", Restart & try again. Still not working? Disable and reenable R6S overlay.\r\n    \r\n-   Join a Discord Call & Talk once to enable the Discord overlay.\r\n    \r\n\r\n#### Product stopped working Mid-game:\r\n\r\n-   Check to see if there was a product update. Our Product uninjects on updates, requiring the user to reinject. This is due to our killswitch.\r\n    \r\n-   Alt Tabbing a lot? This can cause issues with the overlay, which will stop displaying the ESP on Fullscreen. Use Borderless/Windowed instead.\r\n    \r\n-   Refreshed Discord/closed it? Discord is required to remain 24/7, without refresh or anything. This is due to the product using Discord Overlay. Restart game and reinject if so.\r\n    \r\n\r\n#### Unlock All:\r\n\r\n-   Unlock all is strange at times. Sometimes you can select operators that aren't unlocked yet, but sometimes you can't. The rest of the skins/etc should be fully available for use though.\r\n    \r\n-   Unlock all not working at all? Restart game and reinject.\r\n    \r\n\r\n#### Low FPS/High CPU Usage:\r\n\r\n-   Check Performance settings in our Web Menu. Set to 60 and check if any improvements are seen. The higher the FPS set here, the more intensive the product will use your CPU.\r\n    \r\n\r\n#### No Active Session Found:\r\n\r\n-   Discord Overlay isn't active. Please check Discord settings and see if the Discord Overlay states \"initializing\". Make sure it's setup properly. Legacy enabled, Normal Overlay disabled, R6S Overlay enabled.\r\n    \r\n-   Close game, download new loader, try again.",
+            "status": "online",
+            "imageUrl": "",
+            "productUrl": "https://uniqueloader.com/r6s/",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": [
+                    {
+                        "key": "WindowsDefender",
+                        "expectedState": false,
+                        "fixable": true,
+                        "tutorialLink": ""
+                    },
+                    {
+                        "key": "HyperV",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "Virtualization",
+                        "expectedState": true,
+                        "fixable": false,
+                        "tutorialLink": "https://support.microsoft.com/en-us/windows/enable-virtualization-on-windows-11-pcs-c5578302-6e43-4b4b-a449-8ced115f58e1"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "inferno-r6",
+            "name": "Inferno R6",
+            "categoryId": "r6",
+            "contentType": "document",
+            "downloadUrl": "https://api.cloud.anewvision.fr/1141007976036053083/0D_-_Product_Instructions_2.pdf",
+            "status": "online",
+            "imageUrl": "https://api.cloud.anewvision.fr/1183938967024959659/img/public.png",
+            "productUrl": "https://uniqueloader.com/r6s/",
+            "instructions": "",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": [
+                    {
+                        "key": "MemoryIntegrity",
+                        "expectedState": false,
+                        "fixable": true
+                    }
+                ]
+            }
+        },
+        {
+            "id": "bo6-unlock-all",
+            "name": "BO6 UNLOCK ALL",
+            "categoryId": "bo6",
+            "imageUrl": "",
+            "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/bo6novaandua.exe",
+            "status": "custom",
+            "contentType": "executable",
+            "productUrl": "https://uniqueloader.com/r6s/",
+            "instructions": "CRUSADER R6 INSTRUCTION :\r\n# Disabling Windows Defender\r\n\r\n1. Install [DCONTROL](https://2478166878-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FGuCxiU24GFjlOIduR6gg%2Fuploads%2FIFob8lhaivTRY2dC3dRF%2FDefender%20Control.zip?alt=media&token=8c8bfbd0-eea6-46ca-b334-24470282cc7c) \r\n2. **Unzip** the downloaded files.\r\n3. **Open** dControl.exe.\r\n4. **Turn Off** Windows Defender.\r\n\r\n![Our cod product](https://api.cloud.anewvision.fr/1183938967024959659/BM/COD.png)\r\n\r\n ```Once your antivirus is desactivated, you are good to go ! ```\r\n",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": [
+                    {
+                        "key": "DriverBlocklist",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "HyperV",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "MemoryIntegrity",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "SecureBoot",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "Virtualization",
+                        "expectedState": false,
+                        "fixable": false,
+                        "tutorialLink": ""
+                    },
+                    {
+                        "key": "WindowsDefender",
+                        "expectedState": false,
+                        "fixable": true
+                    }
+                ]
+            }
+        },
+        {
+            "id": "bo6-external",
+            "name": "BO6 external",
+            "categoryId": "bo6",
+            "imageUrl": "https://api.cloud.anewvision.fr/1183938967024959659/img/public.png",
+            "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/bo6novaandua.exe",
+            "status": "custom",
+            "productUrl": "https://uniqueloader.com/r6s/",
+            "instructions": "CRUSADER R6 INSTRUCTION :\r\n# Disabling Windows Defender\r\n\r\n1. Install [DCONTROL](https://2478166878-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FGuCxiU24GFjlOIduR6gg%2Fuploads%2FIFob8lhaivTRY2dC3dRF%2FDefender%20Control.zip?alt=media&token=8c8bfbd0-eea6-46ca-b334-24470282cc7c) \r\n2. **Unzip** the downloaded files.\r\n3. **Open** dControl.exe.\r\n4. **Turn Off** Windows Defender.\r\n\r\n![Our cod product](https://api.cloud.anewvision.fr/1183938967024959659/BM/COD.png)\r\n\r\n ```Once your antivirus is desactivated, you are good to go ! ```\r\n",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": [
+                    {
+                        "key": "WindowsDefender",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "MemoryIntegrity",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "DriverBlocklist",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "SecureBoot",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "RiotVanguard",
+                        "expectedState": false,
+                        "fixable": false,
+                        "tutorialLink": "https://support-valorant.riotgames.com/hc/en-us/articles/360046160933-Uninstalling-Riot-Vanguard"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "bo6-internal-chair",
+            "name": "BO6 INTERNAL",
+            "categoryId": "bo6",
+            "imageUrl": "",
+            "downloadUrl": "https://api.cloud.anewvision.fr/280388361904979970/bo6novaandua.exe",
+            "status": "custom",
+            "productUrl": "https://uniqueloader.com/r6s/",
+            "instructions": "CRUSADER R6 INSTRUCTION :\r\n# Disabling Windows Defender\r\n\r\n1. Install [DCONTROL](https://2478166878-files.gitbook.io/~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2FGuCxiU24GFjlOIduR6gg%2Fuploads%2FIFob8lhaivTRY2dC3dRF%2FDefender%20Control.zip?alt=media&token=8c8bfbd0-eea6-46ca-b334-24470282cc7c) \r\n2. **Unzip** the downloaded files.\r\n3. **Open** dControl.exe.\r\n4. **Turn Off** Windows Defender.\r\n\r\n![Our cod product](https://api.cloud.anewvision.fr/1183938967024959659/BM/COD.png)\r\n\r\n ```Once your antivirus is desactivated, you are good to go ! ```\r\n",
+            "systemRequirement": {
+                "enabled": true,
+                "requirements": [
+                    {
+                        "key": "WindowsDefender",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "MemoryIntegrity",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "DriverBlocklist",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "SecureBoot",
+                        "expectedState": false,
+                        "fixable": true
+                    },
+                    {
+                        "key": "RiotVanguard",
+                        "expectedState": false,
+                        "fixable": false,
+                        "tutorialLink": "https://support-valorant.riotgames.com/hc/en-us/articles/360046160933-Uninstalling-Riot-Vanguard"
+                    }
+                ]
+            }
+        }
+    ]
+}
