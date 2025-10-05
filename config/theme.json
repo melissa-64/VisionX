@@ -1,32 +1,32 @@
 {
     "theme": {
         "core": {
-            "primary": "#FF0000",
-            "secondary": "#b30000",
-            "border": "#FF0000",
+            "primary": "#54c8ff",
+            "secondary": "#54c8ff",
+            "border": "#54c8ff",
             "divider": "#252525",
-            "scrollbar": "#FFFFFF"
+            "scrollbar": "#54c8ff"
         },
         "text": {
-            "primary": "#FFFFFF",
-            "secondary": "#d9d9d9"
+            "primary": "#ffffff",
+            "secondary": "#e8e8e8"
         },
         "button": {
-            "category": "#FF0000",
-            "action": "#FF0000"
+            "category": "#54c8ff",
+            "action": "#54c8ff"
         },
         "background": {
             "main": "#050505",
-            "overlay": "rgba(10,10,10,0.5)",
+            "overlay": "rgba(0,0,0,0.5)",
             "custom-image": "",
-            "logoImage": "https://api.cloud.anewvision.fr/1183938967024959659/BLACK_IRIS_LOGO.png",
+            "logoImage": "https://cloud.anewvision.fr/1183938967024959659/ded/LOGO.png",
             "background-anim": "snow"
         },
         "border": {
             "radius": {
-                "small": "5px",
+                "small": "6px",
                 "medium": "8px",
-                "large": "14px"
+                "large": "12px"
             }
         },
         "effects": {
@@ -44,7 +44,7 @@
         "settings": {
             "defaultListView": false,
             "defaultLanguage": "en",
-            "appTitle": "IRIS CORP"
+            "appTitle": "VisionX"
         }
     }
 }
