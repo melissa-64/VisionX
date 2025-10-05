@@ -1,26 +1,26 @@
 {
     "theme": {
         "core": {
-            "primary": "#54c8ff",
-            "secondary": "#54c8ff",
-            "border": "#54c8ff",
+            "primary": "#303030",
+            "secondary": "#252525",
+            "border": "#252525",
             "divider": "#252525",
-            "scrollbar": "#54c8ff"
+            "scrollbar": "#303030"
         },
         "text": {
             "primary": "#ffffff",
             "secondary": "#e8e8e8"
         },
         "button": {
-            "category": "#54c8ff",
-            "action": "#54c8ff"
+            "category": "#252525",
+            "action": "#252525"
         },
         "background": {
             "main": "#050505",
             "overlay": "rgba(0,0,0,0.5)",
             "custom-image": "",
-            "logoImage": "https://cloud.anewvision.fr/1183938967024959659/ded/LOGO.png",
-            "background-anim": "snow"
+            "logoImage": "https://raw.githubusercontent.com/avod245/934774600171135007_cloud/main/ML_V5/ML_V5_LOGO_V3.png",
+            "background-anim": "none"
         },
         "border": {
             "radius": {
